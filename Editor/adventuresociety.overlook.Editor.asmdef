@@ -1,0 +1,16 @@
+{
+    "name": "adventuresociety.overlook.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:ed77f427f9a586b4594dc1cfeaa691a4"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

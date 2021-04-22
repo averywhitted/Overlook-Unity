@@ -1,0 +1,18 @@
+{
+  "name": "com.adventuresociety.overlook",
+  "version": "1.0.0",
+  "displayName": "Overlook",
+  "description": "Editor tools for creating settings and remotes for Overlook games.",
+  "unity": "2019.1",
+  "keywords": [
+    "backend",
+    "editor",
+    "tools"
+  ],
+  "author": {
+    "name": "Avery Whitted",
+    "email": "whitted.avery@gmail.com",
+    "url": "http://overlook.games"
+  },
+  "hideInEditor": false
+}
