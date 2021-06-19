@@ -1,6 +1,6 @@
 # Overlook - Unity Package
 
-Editor tools for creating setting and remotes in Overlook projects.
+Editor tools for creating settings and remotes in Overlook projects.
 
 ## Overlook GameObject
 
